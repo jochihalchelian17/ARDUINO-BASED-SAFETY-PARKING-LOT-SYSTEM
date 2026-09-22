@@ -97,4 +97,6 @@ Homes are often left unattended, making them vulnerable to unauthorized entry. T
 # **🔹 Conclusion** 
 
 This project demonstrates how a simple **LDR sensor + alert circuit** can provide basic home security. While limited, it’s an excellent educational prototype that can evolve into a smart system with added sensors, microcontrollers, and wireless communication. 
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-22 at 9 20 09 AM" src="https://github.com/user-attachments/assets/62cb19a8-8f73-4f2e-ae18-76938117a2d9" />
+
 
